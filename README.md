@@ -22,7 +22,7 @@ If you have problems getting the game to run. You should install [.NET Framework
 
 Credits
 ---
-- Game Design, Code & Graphics: [Shubhajit Saha]
+- Game Design, Code and Graphics: [Shubhajit Saha]
 
 - Background Image: [3705124046_850da50884_o_d](http://www.flickr.com/photos/28634332@N05/3705124046/) by nasa1fan/MSFC under [Creative Commons Attribution-Noncommercial-No Derivative Works 2.0 Generic].
 
