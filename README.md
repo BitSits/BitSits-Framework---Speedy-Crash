@@ -64,6 +64,6 @@ Reviews
 
 [Experimental Gameplay Project]:http://experimentalgameplay.com/
 
-[BitSits Games]:http://bitsits.blogspot.com/
-[Shubhajit Saha]:http://suvozit.com
-[Maya Agarwal]:http://maya8802.tumblr.com
+[BitSits Games]:http://bitsitsgames.com/
+[Shubhajit Saha]:http://suvozit.com/
+[Maya Agarwal]:http://maya8802.tumblr.com/
