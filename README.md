@@ -32,7 +32,7 @@ Credits
 
 - Music: Track "Fearless" from Album [MU.S.GA [Music for Strategy Games] EP](http://www.jamendo.com/en/album/12751) by PILL under [Creative Commons Attribution-NonCommercial-ShareAlike 2.5 Brazil].
 
-- Sound Effects: "boom1.wav" "boom2.wav" "boom4.wav" by [NoiseCollector](http://www.freesound.org/usersViewSingle.php?id=4948), "Gas Stove Turn Off 4.aif" by [MWLANDI](http://www.freesound.org/usersViewSingle.php?id=1265619). Sound effects are licensed under the Creative Commons Sampling Plus 1.0 License.
+- Sound Effects: "boom1.wav" "boom2.wav" "boom4.wav" by [NoiseCollector](http://www.freesound.org/usersViewSingle.php?id=4948), "Gas Stove Turn Off 4.aif" by [MWLANDI](http://www.freesound.org/usersViewSingle.php?id=1265619). Sound effects are licensed under the [Creative Commons Sampling Plus 1.0 License].
 
 - Code Samples: [Creator Club’s GameState Management sample] and [XNA Stater Kit: Platformer] both under [Microsoft Permissive License.rtf].
 
