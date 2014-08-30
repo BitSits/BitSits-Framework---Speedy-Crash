@@ -28,7 +28,7 @@ Credits
 
 - [Asteroids images](http://www.xnadevelopment.com/sprites/images/Asteroids.png) were taken from [XNADevelopment.com](http://www.xnadevelopment.com/).
 
-- Physics: Erin Catto’s Box2D physics engine under the MIT License.
+- Physics: [Erin Catto’s Box2D physics engine](http://www.box2d.org/) under the [MIT License].
 
 - Music: Track "Fearless" from Album [MU.S.GA [Music for Strategy Games] EP](http://www.jamendo.com/en/album/12751) by PILL under [Creative Commons Attribution-NonCommercial-ShareAlike 2.5 Brazil].
 
@@ -54,6 +54,8 @@ Reviews
 [Creator Club’s GameState Management sample]:http://creators.xna.com/en-US/samples/gamestatemanagement
 [XNA Stater Kit: Platformer]:http://msdn.microsoft.com/en-us/library/dd254918.aspx
 [Microsoft Permissive License.rtf]:http://creators.xna.com/downloads/?id=15
+
+[MIT License]:http://www.opensource.org/licenses/mit-license.php
 
 [Creative Commons Sampling Plus 1.0 License]:http://creativecommons.org/licenses/sampling+/1.0/
 [Creative Commons Attribution-Noncommercial-No Derivative Works 2.0 Generic France]:http://creativecommons.org/licenses/by-nc-nd/2.0/fr/
