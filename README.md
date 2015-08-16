@@ -5,7 +5,7 @@ You are trapped in an endless asteroid belt, where you crash into them using you
 
 Download Executable
 ---
-[Speedy Crash.zip (6.14 MB)](https://dl.dropboxusercontent.com/u/85066508/Blog/BitSits%20Games/Speedy%20Crash.zip)
+[Speedy Crash.zip (6.14 MB)](https://github.com/BitSits/Speedy-Crash/raw/master/Speedy%20Crash.zip)
 
 
 Instructions
