@@ -78,3 +78,6 @@ Reviews
 [Experimental Gameplay Project]: http://experimentalgameplay.com/
 [theme]: http://experimentalgameplay.com/blog/2010/05/may-means-high-velocity/
 [zip]: https://github.com/Bitsits/Speedy-Crash/raw/master/Speedy%20Crash.zip
+
+[Blogger](https://bitsits.blogspot.com/2010/05/speedy-crash.html)
+[Tumblr](https://bitsits.tumblr.com/post/96179342805/speedy-crash-you-are-trapped-in-an-endless)
