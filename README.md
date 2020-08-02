@@ -4,10 +4,9 @@ You are trapped in an endless asteroid belt, where you crash into them using you
 
 Screenshots
 ---
-
-![](https://raw.githubusercontent.com/Bitsits/Speedy-Crash-Assets/master/Blog/SpeedyCrash1.png)
-![](https://raw.githubusercontent.com/Bitsits/Speedy-Crash-Assets/master/Blog/SpeedyCrash2.png)
-![](https://raw.githubusercontent.com/Bitsits/Speedy-Crash-Assets/master/Blog/SpeedyCrash3.png)
+![](https://github.com/Bitsits/Speedy-Crash-Assets/raw/master/Blog/SpeedyCrash1.png)
+![](https://github.com/Bitsits/Speedy-Crash-Assets/raw/master/Blog/SpeedyCrash2.png)
+![](https://github.com/Bitsits/Speedy-Crash-Assets/raw/master/Blog/SpeedyCrash3.png)
 
 Download Executable
 ---
@@ -45,11 +44,9 @@ Credits
 
 License
 ---
-
-![](https://raw.githubusercontent.com/Bitsits/Speedy-Crash-Assets/master/Blog/cc.png)
+![](https://github.com/Bitsits/Speedy-Crash-Assets/raw/master/Blog/cc.png)
 
 This work by [Bitsits Games] is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License].
-
 
 Reviews
 ---
