@@ -5,9 +5,9 @@ You are trapped in an endless asteroid belt, where you crash into them using you
 Screenshots
 ---
 
-![](https://raw.githubusercontent.com/Bitsits/Speedy-Crash/master/Blog/SpeedyCrash1.png)
-![](https://raw.githubusercontent.com/Bitsits/Speedy-Crash/master/Blog/SpeedyCrash2.png)
-![](https://raw.githubusercontent.com/Bitsits/Speedy-Crash/master/Blog/SpeedyCrash3.png)
+![](https://raw.githubusercontent.com/Bitsits/Speedy-Crash-Assets/master/Blog/SpeedyCrash1.png)
+![](https://raw.githubusercontent.com/Bitsits/Speedy-Crash-Assets/master/Blog/SpeedyCrash2.png)
+![](https://raw.githubusercontent.com/Bitsits/Speedy-Crash-Assets/master/Blog/SpeedyCrash3.png)
 
 Download Executable
 ---
@@ -18,7 +18,7 @@ Instructions
 ---
 Break the asteroids by crashing into them before you run out of fuel.
 
-Controls: [UP or W] to accelerate, [A or LEFT] to steer left and [D or RIGHT] to steer right.
+Controls: <kbd>UP</kbd> or <kbd>W</kbd> to accelerate, <kbd>A</kbd> or <kbd>LEFT</kbd> to steer left and <kbd>D</kbd> or <kbd>RIGHT</kbd> to steer right.
 
 
 Troubleshooting
@@ -46,7 +46,7 @@ Credits
 License
 ---
 
-![](https://raw.githubusercontent.com/Bitsits/Speedy-Crash/master/Blog/cc.png)
+![](https://raw.githubusercontent.com/Bitsits/Speedy-Crash-Assets/master/Blog/cc.png)
 
 This work by [Bitsits Games] is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License].
 
@@ -68,7 +68,6 @@ Reviews
 [Creative Commons Sampling Plus 1.0 License]: http://creativecommons.org/licenses/sampling+/1.0/
 [Creative Commons Attribution-Noncommercial-No Derivative Works 2.0 Generic]: http://creativecommons.org/licenses/by-nc/2.0/
 [Creative Commons Attribution-NonCommercial-ShareAlike 2.5 Brazil]: http://creativecommons.org/licenses/by-nc-sa/2.5/br/
-[Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 Unported License]: http://creativecommons.org/licenses/by-nc-nd/3.0/
 [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License]: http://creativecommons.org/licenses/by-nc-sa/3.0/
 
 [Bitsits Games]: https://bitsits.blogspot.com
@@ -77,7 +76,7 @@ Reviews
 
 [Experimental Gameplay Project]: http://experimentalgameplay.com/
 [theme]: http://experimentalgameplay.com/blog/2010/05/may-means-high-velocity/
-[zip]: https://github.com/Bitsits/Speedy-Crash/raw/master/Speedy%20Crash.zip
+[zip]: https://github.com/Bitsits/Speedy-Crash-Assets/raw/master/Speedy%20Crash.zip
 
 [Blogger](https://bitsits.blogspot.com/2010/05/speedy-crash.html)
 [Tumblr](https://bitsits.tumblr.com/post/96179342805/speedy-crash-you-are-trapped-in-an-endless)
