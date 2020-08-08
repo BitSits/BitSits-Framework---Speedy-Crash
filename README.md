@@ -12,18 +12,15 @@ Download Executable
 ---
 [Speedy Crash.zip][zip] (6.14 MB)
 
-
 Instructions
 ---
 Break the asteroids by crashing into them before you run out of fuel.
 
 Controls: <kbd>UP</kbd> or <kbd>W</kbd> to accelerate, <kbd>A</kbd> or <kbd>LEFT</kbd> to steer left and <kbd>D</kbd> or <kbd>RIGHT</kbd> to steer right.
 
-
 Troubleshooting
 ---
 If you have problems getting the game to run. You should install [.NET Framework 3.5 SP1] and [XNA Framework Redistributable 3.1].
-
 
 Credits
 ---
@@ -41,17 +38,15 @@ Credits
 
 - Code Samples: [Creator Club’s GameState Management sample] and [XNA Stater Kit: Platformer] both under [Microsoft Permissive License.rtf].
 
-
 License
 ---
-![](https://github.com/Bitsits/Speedy-Crash-Assets/raw/master/Blog/cc.png)
+[![](https://github.com/Bitsits/Speedy-Crash-Assets/raw/master/Blog/cc.png)][Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License]
 
 This work by [Bitsits Games] is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License].
 
 Reviews
 ---
 - [High Velocity Roundup](http://experimentalgameplay.com/blog/2010/05/high-velocity-roundup/), Experimental Gameplay Project.
-
 
 [.NET Framework 3.5 SP1]: http://www.microsoft.com/downloads/details.aspx?FamilyID=ab99342f-5d1a-413d-8319-81da479ab0d7
 [XNA Framework Redistributable 3.1]: http://www.microsoft.com/downloads/details.aspx?FamilyID=53867a2a-e249-4560-8011-98eb3e799ef2
